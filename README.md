@@ -1,9 +1,11 @@
 # Oficina-2.0
 Olá, bem vindo ao projeto Oficina 2.0 - Sistema de cadastro de orçamentos
-![image](https://github.com/matheuspereiramartinscd/Oficina-2.0/assets/136721687/71c57e8b-be50-451a-930c-9e079a88a9ba)
 
-![image](https://github.com/matheuspereiramartinscd/Oficina-2.0/assets/136721687/517bc1c2-db9d-47b7-bdf7-51d2e94b4a9e)
+![Screenshot_4](https://github.com/matheuspereiramartinscd/Oficina-2.0/assets/136721687/ceba6883-4ee9-433d-a8ae-2101a7b1b725)
 
+![Screenshot_5](https://github.com/matheuspereiramartinscd/Oficina-2.0/assets/136721687/7bc97778-ba88-4ecb-9788-2f32d0933775)
+
+![Screenshot_6](https://github.com/matheuspereiramartinscd/Oficina-2.0/assets/136721687/b73af367-187b-41c5-b51f-ad3081ffbe6f)
 
 O projeto foi realizado utilizando a linguagem de programação PHP, Framework Laravel e banco de dados MySQL.
 
